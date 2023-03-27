@@ -1,2 +1,2 @@
 # Rook
-Configurations for the Rook Mk1 3D printer by Rolohaun
+Files for the Rook Mk1 3D printer by Rolohaun.
